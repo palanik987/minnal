@@ -1,0 +1,22 @@
+{
+  "name": "pdfier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palanik987/minnal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palanik987/minnal/issues"
+  },
+  "homepage": "https://github.com/palanik987/minnal#readme",
+  "dependencies": {
+    "phantom": "^6.0.3"
+  }
+}
